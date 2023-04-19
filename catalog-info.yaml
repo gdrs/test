@@ -1,0 +1,7 @@
+_config:
+  site_name: "GDRS Test"
+  site_description: "Testas testauskas"
+pages:
+  - Home
+  - About
+  - Contact
